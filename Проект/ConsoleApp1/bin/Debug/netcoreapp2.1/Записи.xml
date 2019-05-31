@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<records>
+  <record id="1">
+    <doctorID>0</doctorID>
+    <date>30 мая 2019 г.</date>
+    <time>11:00</time>
+    <patient name="f">
+      <polis>12</polis>
+      <phone>12</phone>
+      <birthDate>12.09.2000</birthDate>
+      <gender>М</gender>
+    </patient>
+  </record>
+  <record id="2">
+    <doctorID>3</doctorID>
+    <date>30 мая 2019 г.</date>
+    <time>10:00</time>
+    <patient name="yf">
+      <polis>12</polis>
+      <phone>12</phone>
+      <birthDate>12.09.2000</birthDate>
+      <gender>М</gender>
+    </patient>
+  </record>
+</records>

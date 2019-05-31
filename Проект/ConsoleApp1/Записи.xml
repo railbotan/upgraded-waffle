@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<records>
+	<record id="-1">
+		<doctor id="0"/>
+		<data>30/05/2019</data>
+		<time>10.00</time>
+		<patient name="1">
+			<polis>12345676543</polis>
+			<phone>12345678987654</phone>
+      <birthDate>14/09/1999</birthDate>
+      <gender>М</gender>
+		</patient>
+	</record>
+</records>

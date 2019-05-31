@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doctors>
+	<doctor id="0" name="Мама" cabinet="1" speciality="ЛОР">
+		<workHours date="30/05/2019">
+			<time>08:00</time>
+			<time>10:00</time>
+			<time>12:00</time>
+			<time>14:00</time>
+			<time>16:00</time>
+		</workHours>
+	</doctor>
+</doctors>
